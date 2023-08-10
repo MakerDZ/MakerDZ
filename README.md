@@ -1,1 +1,1 @@
-<img src="https://raw.githubusercontent.com/MakerDZ/MakerDZ/main/github%20profile.png">
+<img src="https://us-east-1.tixte.net/uploads/omega.tixte.co/new_github_banner.png">
