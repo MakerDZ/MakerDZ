@@ -1,2 +1,2 @@
-<img src="https://us-east-1.tixte.net/uploads/omega.tixte.co/new_github_banner.png">
-
+<img src="https://github.com/MakerDZ/MakerDZ/blob/main/upper_grid.png">
+<img src="https://github.com/MakerDZ/MakerDZ/blob/main/middle_grid.png">
